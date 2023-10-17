@@ -5,7 +5,7 @@ Cisco Networking Academy. I will be recording and tracking my progress here.
 
 ## Checklist for the Skills as I practice
 - [ ] SQL
-- [ ] Excel
+- [x] Excel
 - [ ] Statistics
 - [ ] Data visualization
 - [ ] Presentation and Communication Skills
