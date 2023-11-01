@@ -12,5 +12,5 @@ Cisco Networking Academy. I will be recording and tracking my progress here.
 - [ ] Critical Thinking
 
 ## Projects
-- Likelihood of people going to church by town in Kampala
-- Eating tasty, healthy and on budget in Kampala
+- I practice with many lab projects on the cisco platform
+
