@@ -4,7 +4,7 @@ My name is Joshua Mwesigwa, and this is my first project in Data Analysis. I hav
 Cisco Networking Academy. I will be recording and tracking my progress here.
 
 ## Checklist for the Skills as I practice
-- [ ] SQL
+- [x] SQL
 - [x] Excel
 - [ ] Statistics
 - [ ] Data visualization
