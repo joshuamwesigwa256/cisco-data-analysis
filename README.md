@@ -6,11 +6,8 @@ Cisco Networking Academy. I will be recording and tracking my progress here.
 ## Checklist for the Skills as I practice
 - [x] SQL
 - [x] Excel
-- [ ] Statistics
-- [ ] Data visualization
-- [ ] Presentation and Communication Skills
-- [ ] Critical Thinking
+- [x] Data Visualization in both Excel and [Tableau](https://public.tableau.com/views/Hollywoodsbestsample/AnalysisonHollywoodsbest?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Projects
-- I practice with many lab projects on the cisco platform
+- I have practiced with many lab projects on the cisco platform
 
